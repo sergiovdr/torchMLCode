@@ -1,7 +1,7 @@
 # Creating CNN models in PyTorch
-# Author: Udemy, modified by Sergio Viademonte
+# Author:modified by Sergio Viademonte
 # Date Created: 19 October 2020
-# Last Modified: 20 October 2020
+# Last Modified: 21 January 2026
 
 
 import pandas as pd
